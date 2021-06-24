@@ -19,46 +19,33 @@ SOLUTION
 just let the user type the information below and let the code handle making the slideshow of certificates
 
 Meeting 
-
-196
+- 196
 
 
 Date and Venue 
-
-23 Apr 2021, Pune, India
+- 23 Apr 2021, Pune, India
 
 Club 
-
-A Certain 
-
-Toastmasters Club  
+- A Certain 
+- Toastmasters Club  
 
 Signature 
-
-Albus Dumbledore 
-
-Club President 
-
-AC TMC 
+- Albus Dumbledore 
+- Club President 
+- AC TMC 
 
 Speaker
-
-Albus Dumbledore
+- Albus Dumbledore
 
 Table Topics Speaker
-
-Fred Weasley
-
-George Weasley
+- Fred Weasley
+- George Weasley
 
 Evaluator
-
-Severus Snape
+- Severus Snape
 
 Roleplayer with Shorter Stage Time
-
-Lily Potter
+- Lily Potter
 
 Roleplayer with Longer Stage Time
-
-Lord Voldemort
+- Lord Voldemort
