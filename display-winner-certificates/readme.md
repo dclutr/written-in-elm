@@ -18,33 +18,47 @@ SOLUTION
 
 just let the user type the information below and let the code handle making the slideshow of certificates
 
-Meeting
+Meeting 
+
 196
 
-Date and Venue
+
+Date and Venue 
+
 23 Apr 2021, Pune, India
 
-Club
-A Certain
-Toastmasters Club
+Club 
 
-Signature
-Albus Dumbledore
-Club President
-AC TMC
+A Certain 
+
+Toastmasters Club  
+
+Signature 
+
+Albus Dumbledore 
+
+Club President 
+
+AC TMC 
 
 Speaker
+
 Albus Dumbledore
 
 Table Topics Speaker
+
 Fred Weasley
+
 George Weasley
 
 Evaluator
+
 Severus Snape
 
 Roleplayer with Shorter Stage Time
+
 Lily Potter
 
 Roleplayer with Longer Stage Time
+
 Lord Voldemort
