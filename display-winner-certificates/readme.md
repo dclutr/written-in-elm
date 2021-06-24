@@ -1,4 +1,4 @@
-problem statement
+PROBLEM STATEMENT
 
   we have weeky online meetings as part of a Toastmaster Club ( checkout https://www.toastmasters.org/ )
 
@@ -14,37 +14,37 @@ problem statement
   
   3. slides need to be deleted and added depending on number of winners
 
-solution
+SOLUTION
 
-  just let the user type the information below and let the code handle making the slideshow of certificates
+just let the user type the information below and let the code handle making the slideshow of certificates
 
-  Meeting
-    196
+Meeting
+196
 
-  Date and Venue
-    23 Apr 2021, Pune, India
+Date and Venue
+23 Apr 2021, Pune, India
 
-  Club
-    A Certain
-    Toastmasters Club
+Club
+A Certain
+Toastmasters Club
 
-  Signature
-    Albus Dumbledore
-    Club President
-    AC TMC
+Signature
+Albus Dumbledore
+Club President
+AC TMC
 
-  Speaker
-    Albus Dumbledore
+Speaker
+Albus Dumbledore
 
-  Table Topics Speaker
-    Fred Weasley
-    George Weasley
+Table Topics Speaker
+Fred Weasley
+George Weasley
 
-  Evaluator
-    Severus Snape
+Evaluator
+Severus Snape
 
-  Roleplayer with Shorter Stage Time
-    Lily Potter
+Roleplayer with Shorter Stage Time
+Lily Potter
 
-  Roleplayer with Longer Stage Time
-    Lord Voldemort
+Roleplayer with Longer Stage Time
+Lord Voldemort
